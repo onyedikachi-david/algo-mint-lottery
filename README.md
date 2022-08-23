@@ -1,6 +1,10 @@
 Lossless lottery
 
 For Algorand green house hackerton
+--------------------------------------------------------------
+Developed with `Reach-lang` and `React`
+
+--------------------------------------------------------------
 
 SDK function used: `prepareMintTransactions`
 
