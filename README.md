@@ -20,22 +20,7 @@ SDK used:
 
   }
 
-{
-    "sigs": [
-        "Creator_v()address",
-        "balance_NFT_v()uint64",
-        "balance_v()uint64",
-        "claimRewards()byte",
-        "getTicket(uint64)byte",
-        "raffleOver_v()byte",
-        "receivedTickets_v(address)uint64",
-        "revealWinner(uint64,uint64)byte",
-        "rewardsClaimed_v()byte",
-        "ticketPrice_v()uint64",
-        "ticketsSold_v()uint64",
-        "winningTicket_v()uint64"
-    ]
-}
+
 ========================================
 
 To Run This Project
@@ -45,3 +30,7 @@ cd src
 npm run dev
 # or
 yarn dev
+
+==========================================
+Video link.
+https://vimeo.com/742114799/5e9eee199e
