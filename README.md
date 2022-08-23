@@ -4,7 +4,8 @@ For Algorand green house hackerton
 
 SDK function used: `prepareMintTransactions`
 
-` async mint() {
+```javascript
+ async mint() {
     console.log(this.props.acc.networkAccount.addr)
     const res = await prepareMintTransactions({
       appId: 793119194,
@@ -18,7 +19,8 @@ SDK function used: `prepareMintTransactions`
   continue() {
     this.setState({view: 'Attach'});
 
-  }`
+  }
+  ```
 
 
 ========================================
