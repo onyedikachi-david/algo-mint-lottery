@@ -2,9 +2,9 @@ Lossless lottery
 
 For Algorand green house hackerton
 
-SDK used:
+SDK function used: `prepareMintTransactions`
 
- async mint() {
+` async mint() {
     console.log(this.props.acc.networkAccount.addr)
     const res = await prepareMintTransactions({
       appId: 793119194,
@@ -18,7 +18,7 @@ SDK used:
   continue() {
     this.setState({view: 'Attach'});
 
-  }
+  }`
 
 
 ========================================
